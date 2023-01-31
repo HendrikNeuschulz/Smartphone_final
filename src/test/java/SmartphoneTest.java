@@ -43,7 +43,7 @@ public class SmartphoneTest {
 
     @Test
     public void testRemoveContact(){
-        
+
 
         List<Contact> contacts = new ArrayList<>();
 
